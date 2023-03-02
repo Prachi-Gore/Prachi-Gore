@@ -21,18 +21,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prachi-Gore&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prachi-Gore&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Gore&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Prachi-Gore&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Gore&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prachi-Gore&theme=gruvbox&hide_border=false)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prachi-Gore&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-gore) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21117532) 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-<p align="center">Profile views</p>
-
+---
 <div align="center">
+ <p align="center">Profile views</p>
   <img src="https://profile-counter.glitch.me/P/count.svg?"  />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
