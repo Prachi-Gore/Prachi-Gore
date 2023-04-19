@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Prachi Gore
 - 🌍 I'm based in Mumbai, India
 - 🌱 I’m currently learning Web Development
-- 🤝 I am willing to collaborate to create statistical software
+- 🤝 I am willing to collaborate to create Statistical Software
 - ✉️ You can contact me at prachigore408@gmail.com
 - ⚡ Fun fact: Apart from programming, mathematics, statistics I like to watch chess matches
 
