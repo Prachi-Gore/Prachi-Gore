@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning <a href="https://prachi-gore-portfolio.netlify.app/">Web Development</a>
 - 🤝 I am willing to collaborate to create Statistical Software
 - ✉️ You can contact me at prachigore408@gmail.com
-- ⚡ Fun fact: Apart from programming, mathematics, statistics I like to watch chess matches
+- ⚡ Fun fact: Apart from programming, mathematics, statistics I love listening to stories <!--like to watch chess matches-->
 
 <h2 align="left">I code with</h2>
 
