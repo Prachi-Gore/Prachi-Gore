@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prachi Gore
+### Hi there 👋 I'm Prachi Gore, Django React Developer
 - 🌍 I'm based in Mumbai, India
 - 🌱 I’m currently learning <a href="https://prachi-gore-portfolio.netlify.app/">Web Development</a>
 - 🤝 I am willing to collaborate to create Statistical Software
