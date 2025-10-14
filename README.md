@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prachi Gore, Django React Developer
+### Hi there 👋 I'm Prachi Gore, Python Developer
 - 🌍 I'm based in Mumbai, India
 - 🛠️ Passionate about Full Stack Development – built ReadMitra, a Goodreads clone using React, Django, PostgreSQL, Tailwind CSS, Redux & WebSockets
 - 🤝 Open to collaborating on Full Stack projects
