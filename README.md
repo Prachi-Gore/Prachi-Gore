@@ -1,7 +1,10 @@
-### Hi there 👋 I'm Prachi Gore, Python Gen AI Developer 
+### Hi there 👋 I'm Prachi Gore, Python & GenAI Developer 
 - 🌍 I'm based in Mumbai, India
-- 🛠️ Passionate about Full Stack Development – built ReadMitra, a Goodreads clone using React, Django, PostgreSQL, Tailwind CSS, Redux & WebSockets
-- 🤝 Open to collaborating on Full Stack projects
+- 🐍 Python Developer with experience in Django, React, PostgreSQL, MySQL and TypeScript
+- 🤖 Building GenAI applications using OpenAI, LangChain, RAG, Pinecone, Vector Databases, and LLMs
+- 🚀 Built TalentMatch, an AI-powered resume shortlisting assistant using RAG and Pinecone
+- 🛠️ Passionate about Full Stack Development and AI-powered applications
+- 🤝 Open to collaborating on Python, GenAI, Agentic AI, and Full Stack projects
 - ✉️ You can contact me at prachigore408@gmail.com
  
 <h2 align="left">I code with</h2>
