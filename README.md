@@ -11,6 +11,24 @@
 
 <div align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" /></a> 
+ <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52" alt="fastapi logo" />
+</a>
+<a href="https://www.openai.com/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/chatgpt.png" height="40" width="52" alt="openai logo" />
+</a>
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40" width="52" alt="langchain logo" />
+</a>
+<a href="https://www.pinecone.io/" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/48/database.png" height="40" width="52" alt="pinecone logo" />
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/numpy.png" height="40" width="52" alt="numpy logo" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/pandas.png" height="40" width="52" alt="pandas logo" />
+</a> 
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo" /></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" /></a>
@@ -26,7 +44,6 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  /> -->
 <a href="https://shiny.rstudio.com/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
 </div>
 
