@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prachi Gore, Python Developer
+### Hi there 👋 I'm Prachi Gore, Python Gen AI Developer 
 - 🌍 I'm based in Mumbai, India
 - 🛠️ Passionate about Full Stack Development – built ReadMitra, a Goodreads clone using React, Django, PostgreSQL, Tailwind CSS, Redux & WebSockets
 - 🤝 Open to collaborating on Full Stack projects
@@ -36,10 +36,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Prachi-Gore&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-gore) <a href="https://www.hackerrank.com/prachi_gore"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" width="100" border-radius="25%"/></a> [![Portfolio](https://img.shields.io/badge/Portfolio-007acc?logo=About.me&logoColor=white)](https://prachi-gore-portfolio.netlify.app/) 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
----
-<div align="center">
- <p align="center">Profile views</p>
-  <img src="https://profile-counter.glitch.me/P/count.svg?"  />
-</div>
